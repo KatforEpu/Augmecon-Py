@@ -5,7 +5,7 @@ Augmecon-Py: A Python framework for multi-objective linear optimisation under un
 [![python](https://img.shields.io/badge/python-_3.8_|_3.9_|_3.10-blue?logo=python&logoColor=white)](https://github.com/KatforEpu/Augmecon-Py)
 
 
-Installation of the Augmecon-Py software
+Installation
 ----------------------------------------
 
 ### Install the latest Python version
