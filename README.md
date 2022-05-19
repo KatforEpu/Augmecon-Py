@@ -1,8 +1,8 @@
 Augmecon-Py: A Python framework for multi-objective linear optimisation under uncertainty
 =========================================================================================
 
-[![license](https://img.shields.io/badge/License-Apache%202.0-black)](https://github.com/IAMconsortium/pyam/blob/main/LICENSE)
-[![python](https://img.shields.io/badge/python-_3.8_|_3.9_|_3.10-blue?logo=python&logoColor=white)](https://github.com/IAMconsortium/pyam)
+[![license](https://img.shields.io/badge/License-Apache%202.0-black)](https://github.com/KatforEpu/Augmecon-Py/blob/main/LICENSE)
+[![python](https://img.shields.io/badge/python-_3.8_|_3.9_|_3.10-blue?logo=python&logoColor=white)](https://github.com/KatforEpu/Augmecon-Py)
 
 
 Installation of the Augmecon-Py software
